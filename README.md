@@ -4,8 +4,8 @@ Projeto inspirado na interface inicial do Spotify, desenvolvido como exercício 
 
 📸 Preview
 
-![Spotify Clone](./![image](https://github.com/user-attachments/assets/be00c0f5-0186-4ec6-9872-b033432fe207)
-.png)
+![image](https://github.com/user-attachments/assets/be00c0f5-0186-4ec6-9872-b033432fe207)
+
 
 🛠 Tecnologias utilizadas
 
